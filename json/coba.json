@@ -1,0 +1,32 @@
+[
+    { 
+    "nama" : " Tari Dwi Syafitri Hartono",
+    "umur" : 21,
+    "nip" : "2217020084",
+    "lulus" : true,
+    "hobi" : [
+        "coding",
+        "gaming"
+    ],
+    "pembimbing": {
+        "pembimbing1" : " Dody Ferdiansyah",
+        "pembimbing2" : " Erik Doank"
+    }
+
+},
+{ 
+    "nama" : " Tari Dwi Syafitri Hartono",
+    "umur" : 21,
+    "nip" : "2217020084",
+    "lulus" : true,
+    "hobi" : [
+        "coding",
+        "gaming"
+    ],
+    "pembimbing": {
+        "pembimbing1" : " Dody Ferdiansyah",
+        "pembimbing2" : " Erik Doank"
+    }
+
+}
+]
