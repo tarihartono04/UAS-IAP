@@ -174,9 +174,9 @@ if (isset($media['data']) && count($media['data']) >= 1) {
         <div class="row">
           <div class="col-md mb-4">
             <div class="card">
-              <img class="card-img-top" src="img/thumbs/1.png" alt="Card image cap">
+              <img class="card-img-top" src="img/thumbs/4.png" alt="Card image cap">
               <div class="card-body">
-                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                <p class="card-text">Pengembang web dengan pengalaman di PHP, HTML, dan JavaScript.</p>
               </div>
             </div>
           </div>
@@ -185,16 +185,16 @@ if (isset($media['data']) && count($media['data']) >= 1) {
             <div class="card">
               <img class="card-img-top" src="img/thumbs/10.png" alt="Card image cap">
               <div class="card-body">
-                <p class="card-text">Magang di PTPN IV Regional I.</p>
+                <p class="card-text">Kerja Praktek di PTPN IV Regional I, Sumatera Utara.</p>
               </div>
             </div>
           </div>
 
           <div class="col-md mb-4">
             <div class="card">
-              <img class="card-img-top" src="img/thumbs/3.png" alt="Card image cap">
+              <img class="card-img-top" src="img/thumbs/11.png" alt="Card image cap">
               <div class="card-body">
-                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                <p class="card-text">Memasak adalah hobi saya, saya suka bereksperimen dengan bahan masakan untuk menciptakan hidangan yang lezat.</p>
               </div>
             </div>
           </div>   
@@ -203,9 +203,9 @@ if (isset($media['data']) && count($media['data']) >= 1) {
         <div class="row">
           <div class="col-md mb-4">
             <div class="card">
-              <img class="card-img-top" src="img/thumbs/4.png" alt="Card image cap">
+              <img class="card-img-top" src="img/thumbs/8.png" alt="Card image cap">
               <div class="card-body">
-                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                <p class="card-text">Sejak 2022, kami menjalin persahabatan yang erat, saling mendukung, dan menciptakan kenangan tak terlupakan sepanjang perjalanan kuliah.</p>
               </div>
             </div>
           </div> 
