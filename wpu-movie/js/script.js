@@ -28,6 +28,7 @@ function searchMovies() {
             </div>
           `);
         });
+        
 
         $('#search-input').val('');
 
@@ -65,6 +66,14 @@ $('#Movie-List').on('click', '.see-detail', function(){
         },
         success: function(movie){
             if(movie.Response ==="True"){
+          const poster = movie.Poster !== "N/A" ? movie.Poster : 'https://via.placeholder.com/300x450?text=No+Image';
+          $('#exampleModalLabel').text(movie.Title);
+          $('.modal-body').html(`
+            <div class="container-fluid">
+              <div class="row">
+                <div class="col-md-4">
+                  <img src="${poster}" class="img-fluid" />
+                  `);
 
                 $('.modal-body').html(`
                     <div class="container-fluid">
