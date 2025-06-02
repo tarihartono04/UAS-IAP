@@ -183,9 +183,9 @@ if (isset($media['data']) && count($media['data']) >= 1) {
 
           <div class="col-md mb-4">
             <div class="card">
-              <img class="card-img-top" src="img/thumbs/2.png" alt="Card image cap">
+              <img class="card-img-top" src="img/thumbs/10.png" alt="Card image cap">
               <div class="card-body">
-                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                <p class="card-text">Magang di PTPN IV Regional I.</p>
               </div>
             </div>
           </div>
