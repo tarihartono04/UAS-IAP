@@ -16,6 +16,7 @@ $menu = $menu["menu"];
   <body>
     <title>PizzaHut</title>
 
+
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
   <div class="container">
     <a class="navbar-brand" href="#">
@@ -27,6 +28,10 @@ $menu = $menu["menu"];
     <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
       <div class="navbar-nav">
         <a class="nav-link active" aria-current="page" href="#">All Menu</a>
+        <a class="nav-link " aria-current="page" href="#">Pizza</a>
+           <a class="nav-link " aria-current="page" href="#">Pasta</a>
+           <a class="nav-link " aria-current="page" href="#">Nasi</a>
+            <a class="nav-link " aria-current="page" href="#">Minuman</a>
     </div>
   </div>
 </nav>
